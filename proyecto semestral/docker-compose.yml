@@ -1,4 +1,4 @@
-# EP2 DevOps
+# EP2 DevOpss
 networks:
   app-network:
     driver: bridge
